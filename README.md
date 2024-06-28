@@ -1,4 +1,4 @@
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=x6syqeea9hxzdg67wuyuqubhi&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true&bar_color=eab3e6&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=x6syqeea9hxzdg67wuyuqubhi&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=x6syqeea9hxzdg67wuyuqubhi&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true&bar_color=eab3e6&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=x6syqeea9hxzdg67wuyuqubhi&redirect=true)
 ## Eib0n, Great Old One of Knowledge
 - <p>seed 4,909.3793905136319175096571883921²<br>
 - yrr@duck.com</p>
